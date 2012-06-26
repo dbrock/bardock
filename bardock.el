@@ -1,5 +1,6 @@
 ;;; bardock.el --- dock a dock bar (e.g., a doc bar) to your source code
 ;; Copyright (C) 2012  Daniel Brockman <@dbrock>
+;; test
 
 (defcustom bardock-comment-prefix "┃"
   "Prefix inserted at the start of dock bar comments.")
